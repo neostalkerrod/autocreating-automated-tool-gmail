@@ -20,7 +20,9 @@
 </div>
 
 <div align="center">
-<img width="1000" height="470" alt="How-to-Create-Gmail-Account" src="https://github.com/user-attachments/assets/df954e1a-ab00-4e2c-be93-d16ef2fd8d8b" />
+  
+<img width="1376" height="768" alt="Gemini_Generated_Image_c1dgqqc1dgqqc1dg (1)" src="https://github.com/user-attachments/assets/89601e13-6ef2-40d4-8b58-8ac41babb7ce" />
+
 
 </div>
 
